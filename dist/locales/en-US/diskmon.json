@@ -1,0 +1,9 @@
+{
+  "main": {
+    "label": {
+      "name": "Name",
+      "interval": "Set polling interval to",
+      "second": "seconds"
+    }
+  }
+}
